@@ -1,0 +1,13 @@
+h1{color:#e76f51;
+    text-align: center;}
+body{background-color: #faedcd;}
+h3{text-align: center;
+    color:#e76f51;}
+    table, th, td {
+        border: 2px solid white;
+      }
+table{text-align: center;
+     background-color: #f4a261;}
+.container{max-width: 600px;}
+.navbar-custom{color:aqua;}
+button{align-items:center;}
